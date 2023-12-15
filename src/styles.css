@@ -1,0 +1,41 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mdc-button{
+    margin: 5px !important;
+}
+.mat-mdc-form-field{
+    width:100%
+}
+.content{
+    display: block;
+}
+a{
+    color:white;
+    padding: 1%;
+}
+
+.header{
+    background-color: lightskyblue;
+    background-image: url("assets/background.jpg");
+}
+.spanImg{
+    display: inline-flex;
+    align-items: center;
+}
+.headingtext{
+    margin-left: 400px;
+    display: inline-block;
+    text-align: center;
+}
+.btnStyle{
+    margin-left: 90%;
+}
+.imglogo{
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 0;
+    height:"100px";
+}
